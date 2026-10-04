@@ -629,22 +629,6 @@ https://www.figma.com/design/p4DvUhAbm4Ti6EUbLVtqpp/NEXA-%E2%80%94-Case-Study-Po
 
 ---
 
-## Estrutura sugerida do repositório
-
-```text
-NexaExperienciaAcademica/
-│
-├── assets/
-│   ├── nexa-readme-cover.png
-│   └── screenshots/
-│
-├── README.md
-│
-└── docs/
-    └── case-study.pdf
-```
-
-
 ---
 
 ## Autora
@@ -661,6 +645,6 @@ Projeto: [NexaExperienciaAcademica](https://github.com/codermila/NexaExperiencia
 ---
 
 <p align="center">
-  <strong>NEXA — Academic Experience</strong><br>
+  <strong>NEXA — Experiência Acadêmica </strong><br>
   <em>Menos tempo procurando. Mais clareza para aprender.</em>
 </p>
