@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./NEXA — README Cover.png" alt="NEXA — Academic Experience" width="100%">
 </p>
-<h1 align="center">NEXA — Academic Experience</h1>
+<h1 align="center">NEXA | Experiência Acadêmica</h1>
 
 <p align="center">
   <strong>Uma experiência acadêmica orientada por clareza, prioridade e acessibilidade.</strong>
@@ -35,7 +35,7 @@ A proposta é funcionar como um **companion app acadêmico conectado ao ambiente
 
 | Item | Descrição |
 |---|---|
-| **Projeto** | NEXA — Academic Experience |
+| **Projeto** | NEXA | Experiência Acadêmica |
 | **Tipo** | Projeto conceitual de Product Design / UX/UI |
 | **Produto** | Companion app acadêmico |
 | **Plataforma** | Mobile-first, com expansão prevista para desktop |
@@ -226,9 +226,9 @@ Uma etapa recomendada seria realizar entrevistas com aproximadamente **5 a 8 est
 
 ## Proto-personas
 
-### Mariana Costa
+### Clara Bonfim
 
-**21 anos · estudante e trabalha meio período**
+**22 anos · estudante e trabalha meio período**
 
 Usa principalmente o celular e consulta o ambiente acadêmico em pequenos intervalos.
 
@@ -644,12 +644,12 @@ NexaExperienciaAcademica/
     └── case-study.pdf
 ```
 
-> Exporte a capa criada no Figma como `nexa-readme-cover.png` e salve dentro da pasta `assets/`.
 
 ---
 
 ## Autora
 
+![gifmaker_me](https://github.com/codermila/Api-Sistema-Financeiro-Bancario/assets/141371216/9bda2adc-14cc-463b-95cf-b4ad22207c88)
 ### Ludmila Aredes
 
 **UX/UI Design · Product Design · Front-end**
