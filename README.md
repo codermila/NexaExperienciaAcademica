@@ -1,4 +1,3 @@
-[README_NEXA.md](https://github.com/user-attachments/files/33027097/README_NEXA.md)
 <p align="center">
   <img src="./assets/nexa-readme-cover.png" alt="NEXA — Academic Experience" width="100%">
 </p>
