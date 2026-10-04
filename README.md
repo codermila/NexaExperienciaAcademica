@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./nexa-readme-cover.png" alt="NEXA — Academic Experience" width="100%">
+  <img src="./NEXA — README Cover.png" alt="NEXA — Academic Experience" width="100%">
 </p>
-
 <h1 align="center">NEXA — Academic Experience</h1>
 
 <p align="center">
